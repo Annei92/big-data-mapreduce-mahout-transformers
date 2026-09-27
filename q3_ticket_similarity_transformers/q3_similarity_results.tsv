@@ -1,0 +1,701 @@
+row_id	ticket_1	ticket_2	similarity_score	is_similar
+005a7ee959	My browser is loading pages slowly.	Websites are taking a long time to load on my browser.	0.8247	True
+005a7ee959	My browser is loading pages slowly.	Websites are taking a long time to load on my browser.	0.8247	True
+005a7ee959	My browser is loading pages slowly.	Websites are taking a long time to load on my browser.	0.8247	True
+005a7ee959	My browser is loading pages slowly.	Websites are taking a long time to load on my browser.	0.8247	True
+005a7ee959	My browser is loading pages slowly.	Websites are taking a long time to load on my browser.	0.8247	True
+005a7ee959	My browser is loading pages slowly.	Websites are taking a long time to load on my browser.	0.8247	True
+005a7ee959	My browser is loading pages slowly.	Websites are taking a long time to load on my browser.	0.8247	True
+005a7ee959	My browser is loading pages slowly.	Websites are taking a long time to load on my browser.	0.8247	True
+005a7ee959	My browser is loading pages slowly.	Websites are taking a long time to load on my browser.	0.8247	True
+005a7ee959	My browser is loading pages slowly.	Websites are taking a long time to load on my browser.	0.8247	True
+005a7ee959	My browser is loading pages slowly.	Websites are taking a long time to load on my browser.	0.8247	True
+1300a3bb0a	My sound from my headphones is distorted.	My printer is printing blank pages.	0.1923	False
+1300a3bb0a	My sound from my headphones is distorted.	My printer is printing blank pages.	0.1923	False
+1300a3bb0a	My sound from my headphones is distorted.	My printer is printing blank pages.	0.1923	False
+1300a3bb0a	My sound from my headphones is distorted.	My printer is printing blank pages.	0.1923	False
+1300a3bb0a	My sound from my headphones is distorted.	My printer is printing blank pages.	0.1923	False
+1300a3bb0a	My sound from my headphones is distorted.	My printer is printing blank pages.	0.1923	False
+1300a3bb0a	My sound from my headphones is distorted.	My printer is printing blank pages.	0.1923	False
+1300a3bb0a	My sound from my headphones is distorted.	My printer is printing blank pages.	0.1923	False
+1300a3bb0a	My sound from my headphones is distorted.	My printer is printing blank pages.	0.1923	False
+1300a3bb0a	My sound from my headphones is distorted.	My printer is printing blank pages.	0.1923	False
+1300f08365	My internet connection is slow today.	The Wi-Fi is really slow at the office today.	0.6114	False
+1300f08365	My internet connection is slow today.	The Wi-Fi is really slow at the office today.	0.6114	False
+1300f08365	My internet connection is slow today.	The Wi-Fi is really slow at the office today.	0.6114	False
+1300f08365	My internet connection is slow today.	The Wi-Fi is really slow at the office today.	0.6114	False
+1300f08365	My internet connection is slow today.	The Wi-Fi is really slow at the office today.	0.6114	False
+1300f08365	My internet connection is slow today.	The Wi-Fi is really slow at the office today.	0.6114	False
+1300f08365	My internet connection is slow today.	The Wi-Fi is really slow at the office today.	0.6114	False
+1300f08365	My internet connection is slow today.	The Wi-Fi is really slow at the office today.	0.6114	False
+1300f08365	My internet connection is slow today.	The Wi-Fi is really slow at the office today.	0.6114	False
+1300f08365	My internet connection is slow today.	The Wi-Fi is really slow at the office today.	0.6114	False
+1300f08365	My internet connection is slow today.	The Wi-Fi is really slow at the office today.	0.6114	False
+1300f08365	My internet connection is slow today.	The Wi-Fi is really slow at the office today.	0.6114	False
+1300f08365	My internet connection is slow today.	The Wi-Fi is really slow at the office today.	0.6114	False
+1300f08365	My internet connection is slow today.	The Wi-Fi is really slow at the office today.	0.6114	False
+1300f08365	My internet connection is slow today.	The Wi-Fi is really slow at the office today.	0.6114	False
+1300f08365	My internet connection is slow today.	The Wi-Fi is really slow at the office today.	0.6114	False
+1300f08365	My internet connection is slow today.	The Wi-Fi is really slow at the office today.	0.6114	False
+1300f08365	My internet connection is slow today.	The Wi-Fi is really slow at the office today.	0.6114	False
+1300f08365	My internet connection is slow today.	The Wi-Fi is really slow at the office today.	0.6114	False
+1359b6f65c	My laptop won't turn on after pressing the power button.	My computer does not start when I press the power button.	0.8132	True
+1359b6f65c	My laptop won't turn on after pressing the power button.	My computer does not start when I press the power button.	0.8132	True
+1359b6f65c	My laptop won't turn on after pressing the power button.	My computer does not start when I press the power button.	0.8132	True
+1359b6f65c	My laptop won't turn on after pressing the power button.	My computer does not start when I press the power button.	0.8132	True
+1359b6f65c	My laptop won't turn on after pressing the power button.	My computer does not start when I press the power button.	0.8132	True
+1359b6f65c	My laptop won't turn on after pressing the power button.	My computer does not start when I press the power button.	0.8132	True
+1359b6f65c	My laptop won't turn on after pressing the power button.	My computer does not start when I press the power button.	0.8132	True
+1359b6f65c	My laptop won't turn on after pressing the power button.	My computer does not start when I press the power button.	0.8132	True
+1359b6f65c	My laptop won't turn on after pressing the power button.	My computer does not start when I press the power button.	0.8132	True
+1359b6f65c	My laptop won't turn on after pressing the power button.	My computer does not start when I press the power button.	0.8132	True
+1359b6f65c	My laptop won't turn on after pressing the power button.	My computer does not start when I press the power button.	0.8132	True
+1359b6f65c	My laptop won't turn on after pressing the power button.	My computer does not start when I press the power button.	0.8132	True
+1359b6f65c	My laptop won't turn on after pressing the power button.	My computer does not start when I press the power button.	0.8132	True
+1359b6f65c	My laptop won't turn on after pressing the power button.	My computer does not start when I press the power button.	0.8132	True
+1359b6f65c	My laptop won't turn on after pressing the power button.	My computer does not start when I press the power button.	0.8132	True
+1359b6f65c	My laptop won't turn on after pressing the power button.	My computer does not start when I press the power button.	0.8132	True
+1359b6f65c	My laptop won't turn on after pressing the power button.	My computer does not start when I press the power button.	0.8132	True
+1359b6f65c	My laptop won't turn on after pressing the power button.	My computer does not start when I press the power button.	0.8132	True
+1359b6f65c	My laptop won't turn on after pressing the power button.	My computer does not start when I press the power button.	0.8132	True
+1359b6f65c	My laptop won't turn on after pressing the power button.	My computer does not start when I press the power button.	0.8132	True
+1359b6f65c	My laptop won't turn on after pressing the power button.	My computer does not start when I press the power button.	0.8132	True
+1359b6f65c	My laptop won't turn on after pressing the power button.	My computer does not start when I press the power button.	0.8132	True
+1359b6f65c	My laptop won't turn on after pressing the power button.	My computer does not start when I press the power button.	0.8132	True
+1359b6f65c	My laptop won't turn on after pressing the power button.	My computer does not start when I press the power button.	0.8132	True
+1359b6f65c	My laptop won't turn on after pressing the power button.	My computer does not start when I press the power button.	0.8132	True
+1359b6f65c	My laptop won't turn on after pressing the power button.	My computer does not start when I press the power button.	0.8132	True
+1359b6f65c	My laptop won't turn on after pressing the power button.	My computer does not start when I press the power button.	0.8132	True
+1359b6f65c	My laptop won't turn on after pressing the power button.	My computer does not start when I press the power button.	0.8132	True
+1359b6f65c	My laptop won't turn on after pressing the power button.	My computer does not start when I press the power button.	0.8132	True
+1359b6f65c	My laptop won't turn on after pressing the power button.	My computer does not start when I press the power button.	0.8132	True
+1359b6f65c	My laptop won't turn on after pressing the power button.	My computer does not start when I press the power button.	0.8132	True
+1359b6f65c	My laptop won't turn on after pressing the power button.	My computer does not start when I press the power button.	0.8132	True
+1359b6f65c	My laptop won't turn on after pressing the power button.	My computer does not start when I press the power button.	0.8132	True
+1359b6f65c	My laptop won't turn on after pressing the power button.	My computer does not start when I press the power button.	0.8132	True
+1359b6f65c	My laptop won't turn on after pressing the power button.	My computer does not start when I press the power button.	0.8132	True
+1359b6f65c	My laptop won't turn on after pressing the power button.	My computer does not start when I press the power button.	0.8132	True
+3af1f819cc	The keyboard on my laptop isn’t working.	The keys on my computer aren’t responding.	0.7129	True
+3af1f819cc	The keyboard on my laptop isn’t working.	The keys on my computer aren’t responding.	0.7129	True
+3af1f819cc	The keyboard on my laptop isn’t working.	The keys on my computer aren’t responding.	0.7129	True
+3af1f819cc	The keyboard on my laptop isn’t working.	The keys on my computer aren’t responding.	0.7129	True
+3af1f819cc	The keyboard on my laptop isn’t working.	The keys on my computer aren’t responding.	0.7129	True
+3af1f819cc	The keyboard on my laptop isn’t working.	The keys on my computer aren’t responding.	0.7129	True
+3af1f819cc	The keyboard on my laptop isn’t working.	The keys on my computer aren’t responding.	0.7129	True
+3af1f819cc	The keyboard on my laptop isn’t working.	The keys on my computer aren’t responding.	0.7129	True
+3af1f819cc	The keyboard on my laptop isn’t working.	The keys on my computer aren’t responding.	0.7129	True
+3af1f819cc	The keyboard on my laptop isn’t working.	The keys on my computer aren’t responding.	0.7129	True
+3eb1ef49ad	My laptop won't turn on after pressing the power button.	I forgot my email password and need it reset.	0.2000	False
+3eb1ef49ad	My laptop won't turn on after pressing the power button.	I forgot my email password and need it reset.	0.2000	False
+3eb1ef49ad	My laptop won't turn on after pressing the power button.	I forgot my email password and need it reset.	0.2000	False
+3eb1ef49ad	My laptop won't turn on after pressing the power button.	I forgot my email password and need it reset.	0.2000	False
+3eb1ef49ad	My laptop won't turn on after pressing the power button.	I forgot my email password and need it reset.	0.2000	False
+3eb1ef49ad	My laptop won't turn on after pressing the power button.	I forgot my email password and need it reset.	0.2000	False
+3eb1ef49ad	My laptop won't turn on after pressing the power button.	I forgot my email password and need it reset.	0.2000	False
+3eb1ef49ad	My laptop won't turn on after pressing the power button.	I forgot my email password and need it reset.	0.2000	False
+3eb1ef49ad	My laptop won't turn on after pressing the power button.	I forgot my email password and need it reset.	0.2000	False
+3eb1ef49ad	My laptop won't turn on after pressing the power button.	I forgot my email password and need it reset.	0.2000	False
+3eb1ef49ad	My laptop won't turn on after pressing the power button.	I forgot my email password and need it reset.	0.2000	False
+3eb1ef49ad	My laptop won't turn on after pressing the power button.	I forgot my email password and need it reset.	0.2000	False
+3eb1ef49ad	My laptop won't turn on after pressing the power button.	I forgot my email password and need it reset.	0.2000	False
+3eb1ef49ad	My laptop won't turn on after pressing the power button.	I forgot my email password and need it reset.	0.2000	False
+3eb1ef49ad	My laptop won't turn on after pressing the power button.	I forgot my email password and need it reset.	0.2000	False
+3eb1ef49ad	My laptop won't turn on after pressing the power button.	I forgot my email password and need it reset.	0.2000	False
+3eb1ef49ad	My laptop won't turn on after pressing the power button.	I forgot my email password and need it reset.	0.2000	False
+3eb1ef49ad	My laptop won't turn on after pressing the power button.	I forgot my email password and need it reset.	0.2000	False
+3eb1ef49ad	My laptop won't turn on after pressing the power button.	I forgot my email password and need it reset.	0.2000	False
+3eb1ef49ad	My laptop won't turn on after pressing the power button.	I forgot my email password and need it reset.	0.2000	False
+3eb1ef49ad	My laptop won't turn on after pressing the power button.	I forgot my email password and need it reset.	0.2000	False
+3eb1ef49ad	My laptop won't turn on after pressing the power button.	I forgot my email password and need it reset.	0.2000	False
+3eb1ef49ad	My laptop won't turn on after pressing the power button.	I forgot my email password and need it reset.	0.2000	False
+3eb1ef49ad	My laptop won't turn on after pressing the power button.	I forgot my email password and need it reset.	0.2000	False
+3eb1ef49ad	My laptop won't turn on after pressing the power button.	I forgot my email password and need it reset.	0.2000	False
+3eb1ef49ad	My laptop won't turn on after pressing the power button.	I forgot my email password and need it reset.	0.2000	False
+3eb1ef49ad	My laptop won't turn on after pressing the power button.	I forgot my email password and need it reset.	0.2000	False
+3eb1ef49ad	My laptop won't turn on after pressing the power button.	I forgot my email password and need it reset.	0.2000	False
+3eb1ef49ad	My laptop won't turn on after pressing the power button.	I forgot my email password and need it reset.	0.2000	False
+3eb1ef49ad	My laptop won't turn on after pressing the power button.	I forgot my email password and need it reset.	0.2000	False
+3eb1ef49ad	My laptop won't turn on after pressing the power button.	I forgot my email password and need it reset.	0.2000	False
+3fd653cce8	I am unable to connect to the VPN.	The screen is flickering constantly.	0.1551	False
+3fd653cce8	I am unable to connect to the VPN.	The screen is flickering constantly.	0.1551	False
+3fd653cce8	I am unable to connect to the VPN.	The screen is flickering constantly.	0.1551	False
+3fd653cce8	I am unable to connect to the VPN.	The screen is flickering constantly.	0.1551	False
+3fd653cce8	I am unable to connect to the VPN.	The screen is flickering constantly.	0.1551	False
+3fd653cce8	I am unable to connect to the VPN.	The screen is flickering constantly.	0.1551	False
+3fd653cce8	I am unable to connect to the VPN.	The screen is flickering constantly.	0.1551	False
+3fd653cce8	I am unable to connect to the VPN.	The screen is flickering constantly.	0.1551	False
+3fd653cce8	I am unable to connect to the VPN.	The screen is flickering constantly.	0.1551	False
+3fd653cce8	I am unable to connect to the VPN.	The screen is flickering constantly.	0.1551	False
+3fd653cce8	I am unable to connect to the VPN.	The screen is flickering constantly.	0.1551	False
+3fd653cce8	I am unable to connect to the VPN.	The screen is flickering constantly.	0.1551	False
+3fd653cce8	I am unable to connect to the VPN.	The screen is flickering constantly.	0.1551	False
+3fd653cce8	I am unable to connect to the VPN.	The screen is flickering constantly.	0.1551	False
+3fd653cce8	I am unable to connect to the VPN.	The screen is flickering constantly.	0.1551	False
+3fd653cce8	I am unable to connect to the VPN.	The screen is flickering constantly.	0.1551	False
+3fd653cce8	I am unable to connect to the VPN.	The screen is flickering constantly.	0.1551	False
+463dd9e39e	My printer is printing blank pages.	My internet connection is very slow.	0.1961	False
+463dd9e39e	My printer is printing blank pages.	My internet connection is very slow.	0.1961	False
+463dd9e39e	My printer is printing blank pages.	My internet connection is very slow.	0.1961	False
+463dd9e39e	My printer is printing blank pages.	My internet connection is very slow.	0.1961	False
+463dd9e39e	My printer is printing blank pages.	My internet connection is very slow.	0.1961	False
+463dd9e39e	My printer is printing blank pages.	My internet connection is very slow.	0.1961	False
+463dd9e39e	My printer is printing blank pages.	My internet connection is very slow.	0.1961	False
+463dd9e39e	My printer is printing blank pages.	My internet connection is very slow.	0.1961	False
+463dd9e39e	My printer is printing blank pages.	My internet connection is very slow.	0.1961	False
+463dd9e39e	My printer is printing blank pages.	My internet connection is very slow.	0.1961	False
+463dd9e39e	My printer is printing blank pages.	My internet connection is very slow.	0.1961	False
+463dd9e39e	My printer is printing blank pages.	My internet connection is very slow.	0.1961	False
+463dd9e39e	My printer is printing blank pages.	My internet connection is very slow.	0.1961	False
+463dd9e39e	My printer is printing blank pages.	My internet connection is very slow.	0.1961	False
+463dd9e39e	My printer is printing blank pages.	My internet connection is very slow.	0.1961	False
+463dd9e39e	My printer is printing blank pages.	My internet connection is very slow.	0.1961	False
+463dd9e39e	My printer is printing blank pages.	My internet connection is very slow.	0.1961	False
+463dd9e39e	My printer is printing blank pages.	My internet connection is very slow.	0.1961	False
+463dd9e39e	My printer is printing blank pages.	My internet connection is very slow.	0.1961	False
+463dd9e39e	My printer is printing blank pages.	My internet connection is very slow.	0.1961	False
+46be214307	I am unable to connect to the VPN.	I can’t connect to the company VPN.	0.8836	True
+46be214307	I am unable to connect to the VPN.	I can’t connect to the company VPN.	0.8836	True
+46be214307	I am unable to connect to the VPN.	I can’t connect to the company VPN.	0.8836	True
+46be214307	I am unable to connect to the VPN.	I can’t connect to the company VPN.	0.8836	True
+46be214307	I am unable to connect to the VPN.	I can’t connect to the company VPN.	0.8836	True
+46be214307	I am unable to connect to the VPN.	I can’t connect to the company VPN.	0.8836	True
+46be214307	I am unable to connect to the VPN.	I can’t connect to the company VPN.	0.8836	True
+46be214307	I am unable to connect to the VPN.	I can’t connect to the company VPN.	0.8836	True
+46be214307	I am unable to connect to the VPN.	I can’t connect to the company VPN.	0.8836	True
+46be214307	I am unable to connect to the VPN.	I can’t connect to the company VPN.	0.8836	True
+46be214307	I am unable to connect to the VPN.	I can’t connect to the company VPN.	0.8836	True
+46be214307	I am unable to connect to the VPN.	I can’t connect to the company VPN.	0.8836	True
+46be214307	I am unable to connect to the VPN.	I can’t connect to the company VPN.	0.8836	True
+46be214307	I am unable to connect to the VPN.	I can’t connect to the company VPN.	0.8836	True
+46be214307	I am unable to connect to the VPN.	I can’t connect to the company VPN.	0.8836	True
+46be214307	I am unable to connect to the VPN.	I can’t connect to the company VPN.	0.8836	True
+46be214307	I am unable to connect to the VPN.	I can’t connect to the company VPN.	0.8836	True
+46be214307	I am unable to connect to the VPN.	I can’t connect to the company VPN.	0.8836	True
+46be214307	I am unable to connect to the VPN.	I can’t connect to the company VPN.	0.8836	True
+46be214307	I am unable to connect to the VPN.	I can’t connect to the company VPN.	0.8836	True
+46be214307	I am unable to connect to the VPN.	I can’t connect to the company VPN.	0.8836	True
+46be214307	I am unable to connect to the VPN.	I can’t connect to the company VPN.	0.8836	True
+46be214307	I am unable to connect to the VPN.	I can’t connect to the company VPN.	0.8836	True
+46be214307	I am unable to connect to the VPN.	I can’t connect to the company VPN.	0.8836	True
+46be214307	I am unable to connect to the VPN.	I can’t connect to the company VPN.	0.8836	True
+492ccf3f9c	The software crashes every time I try to open it.	The program keeps freezing and closing when I run it.	0.6958	True
+492ccf3f9c	The software crashes every time I try to open it.	The program keeps freezing and closing when I run it.	0.6958	True
+492ccf3f9c	The software crashes every time I try to open it.	The program keeps freezing and closing when I run it.	0.6958	True
+492ccf3f9c	The software crashes every time I try to open it.	The program keeps freezing and closing when I run it.	0.6958	True
+492ccf3f9c	The software crashes every time I try to open it.	The program keeps freezing and closing when I run it.	0.6958	True
+492ccf3f9c	The software crashes every time I try to open it.	The program keeps freezing and closing when I run it.	0.6958	True
+492ccf3f9c	The software crashes every time I try to open it.	The program keeps freezing and closing when I run it.	0.6958	True
+492ccf3f9c	The software crashes every time I try to open it.	The program keeps freezing and closing when I run it.	0.6958	True
+492ccf3f9c	The software crashes every time I try to open it.	The program keeps freezing and closing when I run it.	0.6958	True
+492ccf3f9c	The software crashes every time I try to open it.	The program keeps freezing and closing when I run it.	0.6958	True
+492ccf3f9c	The software crashes every time I try to open it.	The program keeps freezing and closing when I run it.	0.6958	True
+492ccf3f9c	The software crashes every time I try to open it.	The program keeps freezing and closing when I run it.	0.6958	True
+492ccf3f9c	The software crashes every time I try to open it.	The program keeps freezing and closing when I run it.	0.6958	True
+492ccf3f9c	The software crashes every time I try to open it.	The program keeps freezing and closing when I run it.	0.6958	True
+492ccf3f9c	The software crashes every time I try to open it.	The program keeps freezing and closing when I run it.	0.6958	True
+492ccf3f9c	The software crashes every time I try to open it.	The program keeps freezing and closing when I run it.	0.6958	True
+492ccf3f9c	The software crashes every time I try to open it.	The program keeps freezing and closing when I run it.	0.6958	True
+492ccf3f9c	The software crashes every time I try to open it.	The program keeps freezing and closing when I run it.	0.6958	True
+492ccf3f9c	The software crashes every time I try to open it.	The program keeps freezing and closing when I run it.	0.6958	True
+492ccf3f9c	The software crashes every time I try to open it.	The program keeps freezing and closing when I run it.	0.6958	True
+492ccf3f9c	The software crashes every time I try to open it.	The program keeps freezing and closing when I run it.	0.6958	True
+492ccf3f9c	The software crashes every time I try to open it.	The program keeps freezing and closing when I run it.	0.6958	True
+492ccf3f9c	The software crashes every time I try to open it.	The program keeps freezing and closing when I run it.	0.6958	True
+492ccf3f9c	The software crashes every time I try to open it.	The program keeps freezing and closing when I run it.	0.6958	True
+4bc8cee2d5	I need help setting up my email on my phone.	How do I configure my work email on my mobile device?	0.7302	True
+4bc8cee2d5	I need help setting up my email on my phone.	How do I configure my work email on my mobile device?	0.7302	True
+4bc8cee2d5	I need help setting up my email on my phone.	How do I configure my work email on my mobile device?	0.7302	True
+4bc8cee2d5	I need help setting up my email on my phone.	How do I configure my work email on my mobile device?	0.7302	True
+4bc8cee2d5	I need help setting up my email on my phone.	How do I configure my work email on my mobile device?	0.7302	True
+4bc8cee2d5	I need help setting up my email on my phone.	How do I configure my work email on my mobile device?	0.7302	True
+4bc8cee2d5	I need help setting up my email on my phone.	How do I configure my work email on my mobile device?	0.7302	True
+4bc8cee2d5	I need help setting up my email on my phone.	How do I configure my work email on my mobile device?	0.7302	True
+4bc8cee2d5	I need help setting up my email on my phone.	How do I configure my work email on my mobile device?	0.7302	True
+4bc8cee2d5	I need help setting up my email on my phone.	How do I configure my work email on my mobile device?	0.7302	True
+4bc8cee2d5	I need help setting up my email on my phone.	How do I configure my work email on my mobile device?	0.7302	True
+4bc8cee2d5	I need help setting up my email on my phone.	How do I configure my work email on my mobile device?	0.7302	True
+4bc8cee2d5	I need help setting up my email on my phone.	How do I configure my work email on my mobile device?	0.7302	True
+4bc8cee2d5	I need help setting up my email on my phone.	How do I configure my work email on my mobile device?	0.7302	True
+4bc8cee2d5	I need help setting up my email on my phone.	How do I configure my work email on my mobile device?	0.7302	True
+4bc8cee2d5	I need help setting up my email on my phone.	How do I configure my work email on my mobile device?	0.7302	True
+4bc8cee2d5	I need help setting up my email on my phone.	How do I configure my work email on my mobile device?	0.7302	True
+4bc8cee2d5	I need help setting up my email on my phone.	How do I configure my work email on my mobile device?	0.7302	True
+4bc8cee2d5	I need help setting up my email on my phone.	How do I configure my work email on my mobile device?	0.7302	True
+4bc8cee2d5	I need help setting up my email on my phone.	How do I configure my work email on my mobile device?	0.7302	True
+4bc8cee2d5	I need help setting up my email on my phone.	How do I configure my work email on my mobile device?	0.7302	True
+4bc8cee2d5	I need help setting up my email on my phone.	How do I configure my work email on my mobile device?	0.7302	True
+4bc8cee2d5	I need help setting up my email on my phone.	How do I configure my work email on my mobile device?	0.7302	True
+4bc8cee2d5	I need help setting up my email on my phone.	How do I configure my work email on my mobile device?	0.7302	True
+4bc8cee2d5	I need help setting up my email on my phone.	How do I configure my work email on my mobile device?	0.7302	True
+4bc8cee2d5	I need help setting up my email on my phone.	How do I configure my work email on my mobile device?	0.7302	True
+4bc8cee2d5	I need help setting up my email on my phone.	How do I configure my work email on my mobile device?	0.7302	True
+4bc8cee2d5	I need help setting up my email on my phone.	How do I configure my work email on my mobile device?	0.7302	True
+4bc8cee2d5	I need help setting up my email on my phone.	How do I configure my work email on my mobile device?	0.7302	True
+4bc8cee2d5	I need help setting up my email on my phone.	How do I configure my work email on my mobile device?	0.7302	True
+4bc8cee2d5	I need help setting up my email on my phone.	How do I configure my work email on my mobile device?	0.7302	True
+4bc8cee2d5	I need help setting up my email on my phone.	How do I configure my work email on my mobile device?	0.7302	True
+4bc8cee2d5	I need help setting up my email on my phone.	How do I configure my work email on my mobile device?	0.7302	True
+4bc8cee2d5	I need help setting up my email on my phone.	How do I configure my work email on my mobile device?	0.7302	True
+4bc8cee2d5	I need help setting up my email on my phone.	How do I configure my work email on my mobile device?	0.7302	True
+57d0f18681	My Wi-Fi keeps disconnecting every few minutes.	My mobile app crashes on my phone.	0.2555	False
+57d0f18681	My Wi-Fi keeps disconnecting every few minutes.	My mobile app crashes on my phone.	0.2555	False
+57d0f18681	My Wi-Fi keeps disconnecting every few minutes.	My mobile app crashes on my phone.	0.2555	False
+57d0f18681	My Wi-Fi keeps disconnecting every few minutes.	My mobile app crashes on my phone.	0.2555	False
+57d0f18681	My Wi-Fi keeps disconnecting every few minutes.	My mobile app crashes on my phone.	0.2555	False
+57d0f18681	My Wi-Fi keeps disconnecting every few minutes.	My mobile app crashes on my phone.	0.2555	False
+57d0f18681	My Wi-Fi keeps disconnecting every few minutes.	My mobile app crashes on my phone.	0.2555	False
+57d0f18681	My Wi-Fi keeps disconnecting every few minutes.	My mobile app crashes on my phone.	0.2555	False
+57d0f18681	My Wi-Fi keeps disconnecting every few minutes.	My mobile app crashes on my phone.	0.2555	False
+57d0f18681	My Wi-Fi keeps disconnecting every few minutes.	My mobile app crashes on my phone.	0.2555	False
+57d0f18681	My Wi-Fi keeps disconnecting every few minutes.	My mobile app crashes on my phone.	0.2555	False
+57d0f18681	My Wi-Fi keeps disconnecting every few minutes.	My mobile app crashes on my phone.	0.2555	False
+57d0f18681	My Wi-Fi keeps disconnecting every few minutes.	My mobile app crashes on my phone.	0.2555	False
+57d0f18681	My Wi-Fi keeps disconnecting every few minutes.	My mobile app crashes on my phone.	0.2555	False
+5bcc3607cb	My projector is not displaying anything from my laptop.	My computer isn’t connecting to the projector.	0.8184	True
+5bcc3607cb	My projector is not displaying anything from my laptop.	My computer isn’t connecting to the projector.	0.8184	True
+5bcc3607cb	My projector is not displaying anything from my laptop.	My computer isn’t connecting to the projector.	0.8184	True
+5bcc3607cb	My projector is not displaying anything from my laptop.	My computer isn’t connecting to the projector.	0.8184	True
+5bcc3607cb	My projector is not displaying anything from my laptop.	My computer isn’t connecting to the projector.	0.8184	True
+5bcc3607cb	My projector is not displaying anything from my laptop.	My computer isn’t connecting to the projector.	0.8184	True
+5bcc3607cb	My projector is not displaying anything from my laptop.	My computer isn’t connecting to the projector.	0.8184	True
+5bcc3607cb	My projector is not displaying anything from my laptop.	My computer isn’t connecting to the projector.	0.8184	True
+5bcc3607cb	My projector is not displaying anything from my laptop.	My computer isn’t connecting to the projector.	0.8184	True
+5bcc3607cb	My projector is not displaying anything from my laptop.	My computer isn’t connecting to the projector.	0.8184	True
+5bcc3607cb	My projector is not displaying anything from my laptop.	My computer isn’t connecting to the projector.	0.8184	True
+5bcc3607cb	My projector is not displaying anything from my laptop.	My computer isn’t connecting to the projector.	0.8184	True
+5bcc3607cb	My projector is not displaying anything from my laptop.	My computer isn’t connecting to the projector.	0.8184	True
+5bcc3607cb	My projector is not displaying anything from my laptop.	My computer isn’t connecting to the projector.	0.8184	True
+5bcc3607cb	My projector is not displaying anything from my laptop.	My computer isn’t connecting to the projector.	0.8184	True
+5bcc3607cb	My projector is not displaying anything from my laptop.	My computer isn’t connecting to the projector.	0.8184	True
+63ed1b9182	The Wi-Fi keeps disconnecting every few minutes.	The mobile app crashes on my phone.	0.2732	False
+63ed1b9182	The Wi-Fi keeps disconnecting every few minutes.	The mobile app crashes on my phone.	0.2732	False
+63ed1b9182	The Wi-Fi keeps disconnecting every few minutes.	The mobile app crashes on my phone.	0.2732	False
+63ed1b9182	The Wi-Fi keeps disconnecting every few minutes.	The mobile app crashes on my phone.	0.2732	False
+63ed1b9182	The Wi-Fi keeps disconnecting every few minutes.	The mobile app crashes on my phone.	0.2732	False
+63ed1b9182	The Wi-Fi keeps disconnecting every few minutes.	The mobile app crashes on my phone.	0.2732	False
+63ed1b9182	The Wi-Fi keeps disconnecting every few minutes.	The mobile app crashes on my phone.	0.2732	False
+63ed1b9182	The Wi-Fi keeps disconnecting every few minutes.	The mobile app crashes on my phone.	0.2732	False
+63ed1b9182	The Wi-Fi keeps disconnecting every few minutes.	The mobile app crashes on my phone.	0.2732	False
+63ed1b9182	The Wi-Fi keeps disconnecting every few minutes.	The mobile app crashes on my phone.	0.2732	False
+63ed1b9182	The Wi-Fi keeps disconnecting every few minutes.	The mobile app crashes on my phone.	0.2732	False
+63ed1b9182	The Wi-Fi keeps disconnecting every few minutes.	The mobile app crashes on my phone.	0.2732	False
+664ffefa37	The projector is not displaying anything from my laptop.	My computer isn’t connecting to the projector.	0.8300	True
+664ffefa37	The projector is not displaying anything from my laptop.	My computer isn’t connecting to the projector.	0.8300	True
+664ffefa37	The projector is not displaying anything from my laptop.	My computer isn’t connecting to the projector.	0.8300	True
+664ffefa37	The projector is not displaying anything from my laptop.	My computer isn’t connecting to the projector.	0.8300	True
+664ffefa37	The projector is not displaying anything from my laptop.	My computer isn’t connecting to the projector.	0.8300	True
+664ffefa37	The projector is not displaying anything from my laptop.	My computer isn’t connecting to the projector.	0.8300	True
+664ffefa37	The projector is not displaying anything from my laptop.	My computer isn’t connecting to the projector.	0.8300	True
+664ffefa37	The projector is not displaying anything from my laptop.	My computer isn’t connecting to the projector.	0.8300	True
+664ffefa37	The projector is not displaying anything from my laptop.	My computer isn’t connecting to the projector.	0.8300	True
+664ffefa37	The projector is not displaying anything from my laptop.	My computer isn’t connecting to the projector.	0.8300	True
+664ffefa37	The projector is not displaying anything from my laptop.	My computer isn’t connecting to the projector.	0.8300	True
+664ffefa37	The projector is not displaying anything from my laptop.	My computer isn’t connecting to the projector.	0.8300	True
+664ffefa37	The projector is not displaying anything from my laptop.	My computer isn’t connecting to the projector.	0.8300	True
+664ffefa37	The projector is not displaying anything from my laptop.	My computer isn’t connecting to the projector.	0.8300	True
+664ffefa37	The projector is not displaying anything from my laptop.	My computer isn’t connecting to the projector.	0.8300	True
+664ffefa37	The projector is not displaying anything from my laptop.	My computer isn’t connecting to the projector.	0.8300	True
+664ffefa37	The projector is not displaying anything from my laptop.	My computer isn’t connecting to the projector.	0.8300	True
+664ffefa37	The projector is not displaying anything from my laptop.	My computer isn’t connecting to the projector.	0.8300	True
+664ffefa37	The projector is not displaying anything from my laptop.	My computer isn’t connecting to the projector.	0.8300	True
+71c7fa2705	I am unable to connect to the VPN.	My screen is flickering constantly.	0.1467	False
+71c7fa2705	I am unable to connect to the VPN.	My screen is flickering constantly.	0.1467	False
+71c7fa2705	I am unable to connect to the VPN.	My screen is flickering constantly.	0.1467	False
+71c7fa2705	I am unable to connect to the VPN.	My screen is flickering constantly.	0.1467	False
+71c7fa2705	I am unable to connect to the VPN.	My screen is flickering constantly.	0.1467	False
+71c7fa2705	I am unable to connect to the VPN.	My screen is flickering constantly.	0.1467	False
+71c7fa2705	I am unable to connect to the VPN.	My screen is flickering constantly.	0.1467	False
+71c7fa2705	I am unable to connect to the VPN.	My screen is flickering constantly.	0.1467	False
+71c7fa2705	I am unable to connect to the VPN.	My screen is flickering constantly.	0.1467	False
+71c7fa2705	I am unable to connect to the VPN.	My screen is flickering constantly.	0.1467	False
+73672ca7c8	My internet connection is slow today.	My Wi-Fi is really slow at the office today.	0.6893	True
+73672ca7c8	My internet connection is slow today.	My Wi-Fi is really slow at the office today.	0.6893	True
+73672ca7c8	My internet connection is slow today.	My Wi-Fi is really slow at the office today.	0.6893	True
+73672ca7c8	My internet connection is slow today.	My Wi-Fi is really slow at the office today.	0.6893	True
+73672ca7c8	My internet connection is slow today.	My Wi-Fi is really slow at the office today.	0.6893	True
+73672ca7c8	My internet connection is slow today.	My Wi-Fi is really slow at the office today.	0.6893	True
+73672ca7c8	My internet connection is slow today.	My Wi-Fi is really slow at the office today.	0.6893	True
+73672ca7c8	My internet connection is slow today.	My Wi-Fi is really slow at the office today.	0.6893	True
+73672ca7c8	My internet connection is slow today.	My Wi-Fi is really slow at the office today.	0.6893	True
+73672ca7c8	My internet connection is slow today.	My Wi-Fi is really slow at the office today.	0.6893	True
+73672ca7c8	My internet connection is slow today.	My Wi-Fi is really slow at the office today.	0.6893	True
+73672ca7c8	My internet connection is slow today.	My Wi-Fi is really slow at the office today.	0.6893	True
+73672ca7c8	My internet connection is slow today.	My Wi-Fi is really slow at the office today.	0.6893	True
+73672ca7c8	My internet connection is slow today.	My Wi-Fi is really slow at the office today.	0.6893	True
+73672ca7c8	My internet connection is slow today.	My Wi-Fi is really slow at the office today.	0.6893	True
+7a2d5cc502	The screen is flickering constantly.	The monitor is flashing on and off.	0.6811	True
+7a2d5cc502	The screen is flickering constantly.	The monitor is flashing on and off.	0.6811	True
+7a2d5cc502	The screen is flickering constantly.	The monitor is flashing on and off.	0.6811	True
+7a2d5cc502	The screen is flickering constantly.	The monitor is flashing on and off.	0.6811	True
+7a2d5cc502	The screen is flickering constantly.	The monitor is flashing on and off.	0.6811	True
+7a2d5cc502	The screen is flickering constantly.	The monitor is flashing on and off.	0.6811	True
+7a2d5cc502	The screen is flickering constantly.	The monitor is flashing on and off.	0.6811	True
+7a2d5cc502	The screen is flickering constantly.	The monitor is flashing on and off.	0.6811	True
+7a2d5cc502	The screen is flickering constantly.	The monitor is flashing on and off.	0.6811	True
+7a2d5cc502	The screen is flickering constantly.	The monitor is flashing on and off.	0.6811	True
+7a2d5cc502	The screen is flickering constantly.	The monitor is flashing on and off.	0.6811	True
+7bdfc6c216	The browser is loading pages slowly.	Websites are taking a long time to load on my browser.	0.7997	True
+7bdfc6c216	The browser is loading pages slowly.	Websites are taking a long time to load on my browser.	0.7997	True
+7bdfc6c216	The browser is loading pages slowly.	Websites are taking a long time to load on my browser.	0.7997	True
+7bdfc6c216	The browser is loading pages slowly.	Websites are taking a long time to load on my browser.	0.7997	True
+7bdfc6c216	The browser is loading pages slowly.	Websites are taking a long time to load on my browser.	0.7997	True
+7bdfc6c216	The browser is loading pages slowly.	Websites are taking a long time to load on my browser.	0.7997	True
+7bdfc6c216	The browser is loading pages slowly.	Websites are taking a long time to load on my browser.	0.7997	True
+7bdfc6c216	The browser is loading pages slowly.	Websites are taking a long time to load on my browser.	0.7997	True
+7bdfc6c216	The browser is loading pages slowly.	Websites are taking a long time to load on my browser.	0.7997	True
+7bdfc6c216	The browser is loading pages slowly.	Websites are taking a long time to load on my browser.	0.7997	True
+7bdfc6c216	The browser is loading pages slowly.	Websites are taking a long time to load on my browser.	0.7997	True
+7bdfc6c216	The browser is loading pages slowly.	Websites are taking a long time to load on my browser.	0.7997	True
+7bdfc6c216	The browser is loading pages slowly.	Websites are taking a long time to load on my browser.	0.7997	True
+7bdfc6c216	The browser is loading pages slowly.	Websites are taking a long time to load on my browser.	0.7997	True
+7ceda671f6	My laptop’s battery drains too quickly.	The battery on my computer runs out very fast.	0.6233	False
+7ceda671f6	My laptop’s battery drains too quickly.	The battery on my computer runs out very fast.	0.6233	False
+7ceda671f6	My laptop’s battery drains too quickly.	The battery on my computer runs out very fast.	0.6233	False
+7ceda671f6	My laptop’s battery drains too quickly.	The battery on my computer runs out very fast.	0.6233	False
+7ceda671f6	My laptop’s battery drains too quickly.	The battery on my computer runs out very fast.	0.6233	False
+7ceda671f6	My laptop’s battery drains too quickly.	The battery on my computer runs out very fast.	0.6233	False
+7ceda671f6	My laptop’s battery drains too quickly.	The battery on my computer runs out very fast.	0.6233	False
+7ceda671f6	My laptop’s battery drains too quickly.	The battery on my computer runs out very fast.	0.6233	False
+7ceda671f6	My laptop’s battery drains too quickly.	The battery on my computer runs out very fast.	0.6233	False
+7ceda671f6	My laptop’s battery drains too quickly.	The battery on my computer runs out very fast.	0.6233	False
+816f725865	My projector is not displaying anything from my laptop.	My battery on my laptop drains too fast.	0.2135	False
+816f725865	My projector is not displaying anything from my laptop.	My battery on my laptop drains too fast.	0.2135	False
+816f725865	My projector is not displaying anything from my laptop.	My battery on my laptop drains too fast.	0.2135	False
+816f725865	My projector is not displaying anything from my laptop.	My battery on my laptop drains too fast.	0.2135	False
+816f725865	My projector is not displaying anything from my laptop.	My battery on my laptop drains too fast.	0.2135	False
+816f725865	My projector is not displaying anything from my laptop.	My battery on my laptop drains too fast.	0.2135	False
+816f725865	My projector is not displaying anything from my laptop.	My battery on my laptop drains too fast.	0.2135	False
+816f725865	My projector is not displaying anything from my laptop.	My battery on my laptop drains too fast.	0.2135	False
+816f725865	My projector is not displaying anything from my laptop.	My battery on my laptop drains too fast.	0.2135	False
+816f725865	My projector is not displaying anything from my laptop.	My battery on my laptop drains too fast.	0.2135	False
+816f725865	My projector is not displaying anything from my laptop.	My battery on my laptop drains too fast.	0.2135	False
+816f725865	My projector is not displaying anything from my laptop.	My battery on my laptop drains too fast.	0.2135	False
+816f725865	My projector is not displaying anything from my laptop.	My battery on my laptop drains too fast.	0.2135	False
+816f725865	My projector is not displaying anything from my laptop.	My battery on my laptop drains too fast.	0.2135	False
+816f725865	My projector is not displaying anything from my laptop.	My battery on my laptop drains too fast.	0.2135	False
+816f725865	My projector is not displaying anything from my laptop.	My battery on my laptop drains too fast.	0.2135	False
+816f725865	My projector is not displaying anything from my laptop.	My battery on my laptop drains too fast.	0.2135	False
+816f725865	My projector is not displaying anything from my laptop.	My battery on my laptop drains too fast.	0.2135	False
+816f725865	My projector is not displaying anything from my laptop.	My battery on my laptop drains too fast.	0.2135	False
+8c02d92e23	I forgot my email password and need it reset.	I can’t remember my work email password and need a reset.	0.8691	True
+8c02d92e23	I forgot my email password and need it reset.	I can’t remember my work email password and need a reset.	0.8691	True
+8c02d92e23	I forgot my email password and need it reset.	I can’t remember my work email password and need a reset.	0.8691	True
+8c02d92e23	I forgot my email password and need it reset.	I can’t remember my work email password and need a reset.	0.8691	True
+8c02d92e23	I forgot my email password and need it reset.	I can’t remember my work email password and need a reset.	0.8691	True
+8c02d92e23	I forgot my email password and need it reset.	I can’t remember my work email password and need a reset.	0.8691	True
+8c02d92e23	I forgot my email password and need it reset.	I can’t remember my work email password and need a reset.	0.8691	True
+8c02d92e23	I forgot my email password and need it reset.	I can’t remember my work email password and need a reset.	0.8691	True
+8c02d92e23	I forgot my email password and need it reset.	I can’t remember my work email password and need a reset.	0.8691	True
+8c02d92e23	I forgot my email password and need it reset.	I can’t remember my work email password and need a reset.	0.8691	True
+8c02d92e23	I forgot my email password and need it reset.	I can’t remember my work email password and need a reset.	0.8691	True
+8c02d92e23	I forgot my email password and need it reset.	I can’t remember my work email password and need a reset.	0.8691	True
+8c02d92e23	I forgot my email password and need it reset.	I can’t remember my work email password and need a reset.	0.8691	True
+8c02d92e23	I forgot my email password and need it reset.	I can’t remember my work email password and need a reset.	0.8691	True
+8c02d92e23	I forgot my email password and need it reset.	I can’t remember my work email password and need a reset.	0.8691	True
+8c02d92e23	I forgot my email password and need it reset.	I can’t remember my work email password and need a reset.	0.8691	True
+8c02d92e23	I forgot my email password and need it reset.	I can’t remember my work email password and need a reset.	0.8691	True
+8c02d92e23	I forgot my email password and need it reset.	I can’t remember my work email password and need a reset.	0.8691	True
+8c02d92e23	I forgot my email password and need it reset.	I can’t remember my work email password and need a reset.	0.8691	True
+8c02d92e23	I forgot my email password and need it reset.	I can’t remember my work email password and need a reset.	0.8691	True
+8c02d92e23	I forgot my email password and need it reset.	I can’t remember my work email password and need a reset.	0.8691	True
+8c02d92e23	I forgot my email password and need it reset.	I can’t remember my work email password and need a reset.	0.8691	True
+8c02d92e23	I forgot my email password and need it reset.	I can’t remember my work email password and need a reset.	0.8691	True
+8c02d92e23	I forgot my email password and need it reset.	I can’t remember my work email password and need a reset.	0.8691	True
+8c02d92e23	I forgot my email password and need it reset.	I can’t remember my work email password and need a reset.	0.8691	True
+8c02d92e23	I forgot my email password and need it reset.	I can’t remember my work email password and need a reset.	0.8691	True
+8c02d92e23	I forgot my email password and need it reset.	I can’t remember my work email password and need a reset.	0.8691	True
+8c02d92e23	I forgot my email password and need it reset.	I can’t remember my work email password and need a reset.	0.8691	True
+8c02d92e23	I forgot my email password and need it reset.	I can’t remember my work email password and need a reset.	0.8691	True
+8c02d92e23	I forgot my email password and need it reset.	I can’t remember my work email password and need a reset.	0.8691	True
+8c02d92e23	I forgot my email password and need it reset.	I can’t remember my work email password and need a reset.	0.8691	True
+9007905f42	My software crashes every time I try to open it.	My program keeps freezing and closing when I run it.	0.6715	True
+9007905f42	My software crashes every time I try to open it.	My program keeps freezing and closing when I run it.	0.6715	True
+9007905f42	My software crashes every time I try to open it.	My program keeps freezing and closing when I run it.	0.6715	True
+9007905f42	My software crashes every time I try to open it.	My program keeps freezing and closing when I run it.	0.6715	True
+9007905f42	My software crashes every time I try to open it.	My program keeps freezing and closing when I run it.	0.6715	True
+9007905f42	My software crashes every time I try to open it.	My program keeps freezing and closing when I run it.	0.6715	True
+9007905f42	My software crashes every time I try to open it.	My program keeps freezing and closing when I run it.	0.6715	True
+9007905f42	My software crashes every time I try to open it.	My program keeps freezing and closing when I run it.	0.6715	True
+9007905f42	My software crashes every time I try to open it.	My program keeps freezing and closing when I run it.	0.6715	True
+9007905f42	My software crashes every time I try to open it.	My program keeps freezing and closing when I run it.	0.6715	True
+9007905f42	My software crashes every time I try to open it.	My program keeps freezing and closing when I run it.	0.6715	True
+9007905f42	My software crashes every time I try to open it.	My program keeps freezing and closing when I run it.	0.6715	True
+9007905f42	My software crashes every time I try to open it.	My program keeps freezing and closing when I run it.	0.6715	True
+9007905f42	My software crashes every time I try to open it.	My program keeps freezing and closing when I run it.	0.6715	True
+9007905f42	My software crashes every time I try to open it.	My program keeps freezing and closing when I run it.	0.6715	True
+98bbb67a0d	The projector is not displaying anything from my laptop.	The battery on my laptop drains too fast.	0.2260	False
+98bbb67a0d	The projector is not displaying anything from my laptop.	The battery on my laptop drains too fast.	0.2260	False
+98bbb67a0d	The projector is not displaying anything from my laptop.	The battery on my laptop drains too fast.	0.2260	False
+98bbb67a0d	The projector is not displaying anything from my laptop.	The battery on my laptop drains too fast.	0.2260	False
+98bbb67a0d	The projector is not displaying anything from my laptop.	The battery on my laptop drains too fast.	0.2260	False
+98bbb67a0d	The projector is not displaying anything from my laptop.	The battery on my laptop drains too fast.	0.2260	False
+98bbb67a0d	The projector is not displaying anything from my laptop.	The battery on my laptop drains too fast.	0.2260	False
+98bbb67a0d	The projector is not displaying anything from my laptop.	The battery on my laptop drains too fast.	0.2260	False
+98bbb67a0d	The projector is not displaying anything from my laptop.	The battery on my laptop drains too fast.	0.2260	False
+98bbb67a0d	The projector is not displaying anything from my laptop.	The battery on my laptop drains too fast.	0.2260	False
+98bbb67a0d	The projector is not displaying anything from my laptop.	The battery on my laptop drains too fast.	0.2260	False
+98bbb67a0d	The projector is not displaying anything from my laptop.	The battery on my laptop drains too fast.	0.2260	False
+98bbb67a0d	The projector is not displaying anything from my laptop.	The battery on my laptop drains too fast.	0.2260	False
+98bbb67a0d	The projector is not displaying anything from my laptop.	The battery on my laptop drains too fast.	0.2260	False
+98bbb67a0d	The projector is not displaying anything from my laptop.	The battery on my laptop drains too fast.	0.2260	False
+98bbb67a0d	The projector is not displaying anything from my laptop.	The battery on my laptop drains too fast.	0.2260	False
+98bbb67a0d	The projector is not displaying anything from my laptop.	The battery on my laptop drains too fast.	0.2260	False
+98bbb67a0d	The projector is not displaying anything from my laptop.	The battery on my laptop drains too fast.	0.2260	False
+9e57edce31	My email account was locked due to failed login attempts.	My laptop won’t charge properly.	0.1273	False
+9e57edce31	My email account was locked due to failed login attempts.	My laptop won’t charge properly.	0.1273	False
+9e57edce31	My email account was locked due to failed login attempts.	My laptop won’t charge properly.	0.1273	False
+9e57edce31	My email account was locked due to failed login attempts.	My laptop won’t charge properly.	0.1273	False
+9e57edce31	My email account was locked due to failed login attempts.	My laptop won’t charge properly.	0.1273	False
+9e57edce31	My email account was locked due to failed login attempts.	My laptop won’t charge properly.	0.1273	False
+9e57edce31	My email account was locked due to failed login attempts.	My laptop won’t charge properly.	0.1273	False
+9e57edce31	My email account was locked due to failed login attempts.	My laptop won’t charge properly.	0.1273	False
+9e57edce31	My email account was locked due to failed login attempts.	My laptop won’t charge properly.	0.1273	False
+a9fac2c7e2	The sound from my headphones is distorted.	The printer is printing blank pages.	0.1385	False
+a9fac2c7e2	The sound from my headphones is distorted.	The printer is printing blank pages.	0.1385	False
+a9fac2c7e2	The sound from my headphones is distorted.	The printer is printing blank pages.	0.1385	False
+a9fac2c7e2	The sound from my headphones is distorted.	The printer is printing blank pages.	0.1385	False
+a9fac2c7e2	The sound from my headphones is distorted.	The printer is printing blank pages.	0.1385	False
+a9fac2c7e2	The sound from my headphones is distorted.	The printer is printing blank pages.	0.1385	False
+a9fac2c7e2	The sound from my headphones is distorted.	The printer is printing blank pages.	0.1385	False
+a9fac2c7e2	The sound from my headphones is distorted.	The printer is printing blank pages.	0.1385	False
+a9fac2c7e2	The sound from my headphones is distorted.	The printer is printing blank pages.	0.1385	False
+a9fac2c7e2	The sound from my headphones is distorted.	The printer is printing blank pages.	0.1385	False
+a9fac2c7e2	The sound from my headphones is distorted.	The printer is printing blank pages.	0.1385	False
+a9fac2c7e2	The sound from my headphones is distorted.	The printer is printing blank pages.	0.1385	False
+a9fac2c7e2	The sound from my headphones is distorted.	The printer is printing blank pages.	0.1385	False
+a9fac2c7e2	The sound from my headphones is distorted.	The printer is printing blank pages.	0.1385	False
+a9fac2c7e2	The sound from my headphones is distorted.	The printer is printing blank pages.	0.1385	False
+aa74369215	My email account was locked due to failed login attempts.	The laptop won’t charge properly.	0.1140	False
+aa74369215	My email account was locked due to failed login attempts.	The laptop won’t charge properly.	0.1140	False
+aa74369215	My email account was locked due to failed login attempts.	The laptop won’t charge properly.	0.1140	False
+aa74369215	My email account was locked due to failed login attempts.	The laptop won’t charge properly.	0.1140	False
+aa74369215	My email account was locked due to failed login attempts.	The laptop won’t charge properly.	0.1140	False
+aa74369215	My email account was locked due to failed login attempts.	The laptop won’t charge properly.	0.1140	False
+aa74369215	My email account was locked due to failed login attempts.	The laptop won’t charge properly.	0.1140	False
+aa74369215	My email account was locked due to failed login attempts.	The laptop won’t charge properly.	0.1140	False
+aa74369215	My email account was locked due to failed login attempts.	The laptop won’t charge properly.	0.1140	False
+aa74369215	My email account was locked due to failed login attempts.	The laptop won’t charge properly.	0.1140	False
+aa74369215	My email account was locked due to failed login attempts.	The laptop won’t charge properly.	0.1140	False
+aa74369215	My email account was locked due to failed login attempts.	The laptop won’t charge properly.	0.1140	False
+aa74369215	My email account was locked due to failed login attempts.	The laptop won’t charge properly.	0.1140	False
+aa74369215	My email account was locked due to failed login attempts.	The laptop won’t charge properly.	0.1140	False
+aa74369215	My email account was locked due to failed login attempts.	The laptop won’t charge properly.	0.1140	False
+c6f449646d	My keyboard on my laptop isn’t working.	My keys on my computer aren’t responding.	0.6901	True
+c6f449646d	My keyboard on my laptop isn’t working.	My keys on my computer aren’t responding.	0.6901	True
+c6f449646d	My keyboard on my laptop isn’t working.	My keys on my computer aren’t responding.	0.6901	True
+c6f449646d	My keyboard on my laptop isn’t working.	My keys on my computer aren’t responding.	0.6901	True
+c6f449646d	My keyboard on my laptop isn’t working.	My keys on my computer aren’t responding.	0.6901	True
+c6f449646d	My keyboard on my laptop isn’t working.	My keys on my computer aren’t responding.	0.6901	True
+c6f449646d	My keyboard on my laptop isn’t working.	My keys on my computer aren’t responding.	0.6901	True
+c6f449646d	My keyboard on my laptop isn’t working.	My keys on my computer aren’t responding.	0.6901	True
+c6f449646d	My keyboard on my laptop isn’t working.	My keys on my computer aren’t responding.	0.6901	True
+c6f449646d	My keyboard on my laptop isn’t working.	My keys on my computer aren’t responding.	0.6901	True
+c6f449646d	My keyboard on my laptop isn’t working.	My keys on my computer aren’t responding.	0.6901	True
+c6f449646d	My keyboard on my laptop isn’t working.	My keys on my computer aren’t responding.	0.6901	True
+c6f449646d	My keyboard on my laptop isn’t working.	My keys on my computer aren’t responding.	0.6901	True
+c6f449646d	My keyboard on my laptop isn’t working.	My keys on my computer aren’t responding.	0.6901	True
+c6f449646d	My keyboard on my laptop isn’t working.	My keys on my computer aren’t responding.	0.6901	True
+c6f449646d	My keyboard on my laptop isn’t working.	My keys on my computer aren’t responding.	0.6901	True
+c6f449646d	My keyboard on my laptop isn’t working.	My keys on my computer aren’t responding.	0.6901	True
+d0c5805c5d	My browser is loading pages slowly.	I need help setting up my email on my phone.	0.0194	False
+d0c5805c5d	My browser is loading pages slowly.	I need help setting up my email on my phone.	0.0194	False
+d0c5805c5d	My browser is loading pages slowly.	I need help setting up my email on my phone.	0.0194	False
+d0c5805c5d	My browser is loading pages slowly.	I need help setting up my email on my phone.	0.0194	False
+d0c5805c5d	My browser is loading pages slowly.	I need help setting up my email on my phone.	0.0194	False
+d0c5805c5d	My browser is loading pages slowly.	I need help setting up my email on my phone.	0.0194	False
+d0c5805c5d	My browser is loading pages slowly.	I need help setting up my email on my phone.	0.0194	False
+d0c5805c5d	My browser is loading pages slowly.	I need help setting up my email on my phone.	0.0194	False
+d0c5805c5d	My browser is loading pages slowly.	I need help setting up my email on my phone.	0.0194	False
+d0c5805c5d	My browser is loading pages slowly.	I need help setting up my email on my phone.	0.0194	False
+d0c5805c5d	My browser is loading pages slowly.	I need help setting up my email on my phone.	0.0194	False
+d0c5805c5d	My browser is loading pages slowly.	I need help setting up my email on my phone.	0.0194	False
+d0c5805c5d	My browser is loading pages slowly.	I need help setting up my email on my phone.	0.0194	False
+d316fd5a18	My software crashes every time I try to open it.	My fan on my laptop is making a loud noise.	0.2182	False
+d316fd5a18	My software crashes every time I try to open it.	My fan on my laptop is making a loud noise.	0.2182	False
+d316fd5a18	My software crashes every time I try to open it.	My fan on my laptop is making a loud noise.	0.2182	False
+d316fd5a18	My software crashes every time I try to open it.	My fan on my laptop is making a loud noise.	0.2182	False
+d316fd5a18	My software crashes every time I try to open it.	My fan on my laptop is making a loud noise.	0.2182	False
+d316fd5a18	My software crashes every time I try to open it.	My fan on my laptop is making a loud noise.	0.2182	False
+d316fd5a18	My software crashes every time I try to open it.	My fan on my laptop is making a loud noise.	0.2182	False
+d316fd5a18	My software crashes every time I try to open it.	My fan on my laptop is making a loud noise.	0.2182	False
+d316fd5a18	My software crashes every time I try to open it.	My fan on my laptop is making a loud noise.	0.2182	False
+d316fd5a18	My software crashes every time I try to open it.	My fan on my laptop is making a loud noise.	0.2182	False
+d316fd5a18	My software crashes every time I try to open it.	My fan on my laptop is making a loud noise.	0.2182	False
+d316fd5a18	My software crashes every time I try to open it.	My fan on my laptop is making a loud noise.	0.2182	False
+d316fd5a18	My software crashes every time I try to open it.	My fan on my laptop is making a loud noise.	0.2182	False
+d316fd5a18	My software crashes every time I try to open it.	My fan on my laptop is making a loud noise.	0.2182	False
+d42a595e4b	The printer is printing blank pages.	The internet connection is very slow.	0.1558	False
+d42a595e4b	The printer is printing blank pages.	The internet connection is very slow.	0.1558	False
+d42a595e4b	The printer is printing blank pages.	The internet connection is very slow.	0.1558	False
+d42a595e4b	The printer is printing blank pages.	The internet connection is very slow.	0.1558	False
+d42a595e4b	The printer is printing blank pages.	The internet connection is very slow.	0.1558	False
+d42a595e4b	The printer is printing blank pages.	The internet connection is very slow.	0.1558	False
+d42a595e4b	The printer is printing blank pages.	The internet connection is very slow.	0.1558	False
+d42a595e4b	The printer is printing blank pages.	The internet connection is very slow.	0.1558	False
+d42a595e4b	The printer is printing blank pages.	The internet connection is very slow.	0.1558	False
+d42a595e4b	The printer is printing blank pages.	The internet connection is very slow.	0.1558	False
+d42a595e4b	The printer is printing blank pages.	The internet connection is very slow.	0.1558	False
+d42a595e4b	The printer is printing blank pages.	The internet connection is very slow.	0.1558	False
+d42a595e4b	The printer is printing blank pages.	The internet connection is very slow.	0.1558	False
+d42a595e4b	The printer is printing blank pages.	The internet connection is very slow.	0.1558	False
+d42a595e4b	The printer is printing blank pages.	The internet connection is very slow.	0.1558	False
+d42a595e4b	The printer is printing blank pages.	The internet connection is very slow.	0.1558	False
+d42a595e4b	The printer is printing blank pages.	The internet connection is very slow.	0.1558	False
+d42a595e4b	The printer is printing blank pages.	The internet connection is very slow.	0.1558	False
+d7c836db44	The browser is loading pages slowly.	I need help setting up my email on my phone.	-0.0046	False
+d7c836db44	The browser is loading pages slowly.	I need help setting up my email on my phone.	-0.0046	False
+d7c836db44	The browser is loading pages slowly.	I need help setting up my email on my phone.	-0.0046	False
+d7c836db44	The browser is loading pages slowly.	I need help setting up my email on my phone.	-0.0046	False
+d7c836db44	The browser is loading pages slowly.	I need help setting up my email on my phone.	-0.0046	False
+d7c836db44	The browser is loading pages slowly.	I need help setting up my email on my phone.	-0.0046	False
+d7c836db44	The browser is loading pages slowly.	I need help setting up my email on my phone.	-0.0046	False
+d7c836db44	The browser is loading pages slowly.	I need help setting up my email on my phone.	-0.0046	False
+d7c836db44	The browser is loading pages slowly.	I need help setting up my email on my phone.	-0.0046	False
+d7c836db44	The browser is loading pages slowly.	I need help setting up my email on my phone.	-0.0046	False
+d7c836db44	The browser is loading pages slowly.	I need help setting up my email on my phone.	-0.0046	False
+d7c836db44	The browser is loading pages slowly.	I need help setting up my email on my phone.	-0.0046	False
+d7c836db44	The browser is loading pages slowly.	I need help setting up my email on my phone.	-0.0046	False
+d7c836db44	The browser is loading pages slowly.	I need help setting up my email on my phone.	-0.0046	False
+d7c836db44	The browser is loading pages slowly.	I need help setting up my email on my phone.	-0.0046	False
+d7c836db44	The browser is loading pages slowly.	I need help setting up my email on my phone.	-0.0046	False
+d7c836db44	The browser is loading pages slowly.	I need help setting up my email on my phone.	-0.0046	False
+d7c836db44	The browser is loading pages slowly.	I need help setting up my email on my phone.	-0.0046	False
+d7c836db44	The browser is loading pages slowly.	I need help setting up my email on my phone.	-0.0046	False
+d7c836db44	The browser is loading pages slowly.	I need help setting up my email on my phone.	-0.0046	False
+de41b73059	The printer is printing blank pages.	The printer outputs empty sheets of paper.	0.8175	True
+de41b73059	The printer is printing blank pages.	The printer outputs empty sheets of paper.	0.8175	True
+de41b73059	The printer is printing blank pages.	The printer outputs empty sheets of paper.	0.8175	True
+de41b73059	The printer is printing blank pages.	The printer outputs empty sheets of paper.	0.8175	True
+de41b73059	The printer is printing blank pages.	The printer outputs empty sheets of paper.	0.8175	True
+de41b73059	The printer is printing blank pages.	The printer outputs empty sheets of paper.	0.8175	True
+de41b73059	The printer is printing blank pages.	The printer outputs empty sheets of paper.	0.8175	True
+de41b73059	The printer is printing blank pages.	The printer outputs empty sheets of paper.	0.8175	True
+de41b73059	The printer is printing blank pages.	The printer outputs empty sheets of paper.	0.8175	True
+de41b73059	The printer is printing blank pages.	The printer outputs empty sheets of paper.	0.8175	True
+de41b73059	The printer is printing blank pages.	The printer outputs empty sheets of paper.	0.8175	True
+de41b73059	The printer is printing blank pages.	The printer outputs empty sheets of paper.	0.8175	True
+de41b73059	The printer is printing blank pages.	The printer outputs empty sheets of paper.	0.8175	True
+de41b73059	The printer is printing blank pages.	The printer outputs empty sheets of paper.	0.8175	True
+e1f07d3c7a	My screen is flickering constantly.	My monitor is flashing on and off.	0.7098	True
+e1f07d3c7a	My screen is flickering constantly.	My monitor is flashing on and off.	0.7098	True
+e1f07d3c7a	My screen is flickering constantly.	My monitor is flashing on and off.	0.7098	True
+e1f07d3c7a	My screen is flickering constantly.	My monitor is flashing on and off.	0.7098	True
+e1f07d3c7a	My screen is flickering constantly.	My monitor is flashing on and off.	0.7098	True
+e1f07d3c7a	My screen is flickering constantly.	My monitor is flashing on and off.	0.7098	True
+e1f07d3c7a	My screen is flickering constantly.	My monitor is flashing on and off.	0.7098	True
+e1f07d3c7a	My screen is flickering constantly.	My monitor is flashing on and off.	0.7098	True
+e1f07d3c7a	My screen is flickering constantly.	My monitor is flashing on and off.	0.7098	True
+e1f07d3c7a	My screen is flickering constantly.	My monitor is flashing on and off.	0.7098	True
+e1f07d3c7a	My screen is flickering constantly.	My monitor is flashing on and off.	0.7098	True
+e1f07d3c7a	My screen is flickering constantly.	My monitor is flashing on and off.	0.7098	True
+e1f07d3c7a	My screen is flickering constantly.	My monitor is flashing on and off.	0.7098	True
+e1f07d3c7a	My screen is flickering constantly.	My monitor is flashing on and off.	0.7098	True
+e597eb5850	I need more storage space on my hard drive.	My sound quality from my headphones is distorted.	0.0877	False
+e597eb5850	I need more storage space on my hard drive.	My sound quality from my headphones is distorted.	0.0877	False
+e597eb5850	I need more storage space on my hard drive.	My sound quality from my headphones is distorted.	0.0877	False
+e597eb5850	I need more storage space on my hard drive.	My sound quality from my headphones is distorted.	0.0877	False
+e597eb5850	I need more storage space on my hard drive.	My sound quality from my headphones is distorted.	0.0877	False
+e597eb5850	I need more storage space on my hard drive.	My sound quality from my headphones is distorted.	0.0877	False
+e597eb5850	I need more storage space on my hard drive.	My sound quality from my headphones is distorted.	0.0877	False
+e597eb5850	I need more storage space on my hard drive.	My sound quality from my headphones is distorted.	0.0877	False
+e597eb5850	I need more storage space on my hard drive.	My sound quality from my headphones is distorted.	0.0877	False
+e597eb5850	I need more storage space on my hard drive.	My sound quality from my headphones is distorted.	0.0877	False
+e597eb5850	I need more storage space on my hard drive.	My sound quality from my headphones is distorted.	0.0877	False
+e597eb5850	I need more storage space on my hard drive.	My sound quality from my headphones is distorted.	0.0877	False
+e597eb5850	I need more storage space on my hard drive.	My sound quality from my headphones is distorted.	0.0877	False
+e597eb5850	I need more storage space on my hard drive.	My sound quality from my headphones is distorted.	0.0877	False
+e73ac2c389	My laptop’s battery drains too quickly.	My battery on my computer runs out very fast.	0.6928	True
+e73ac2c389	My laptop’s battery drains too quickly.	My battery on my computer runs out very fast.	0.6928	True
+e73ac2c389	My laptop’s battery drains too quickly.	My battery on my computer runs out very fast.	0.6928	True
+e73ac2c389	My laptop’s battery drains too quickly.	My battery on my computer runs out very fast.	0.6928	True
+e73ac2c389	My laptop’s battery drains too quickly.	My battery on my computer runs out very fast.	0.6928	True
+e73ac2c389	My laptop’s battery drains too quickly.	My battery on my computer runs out very fast.	0.6928	True
+e73ac2c389	My laptop’s battery drains too quickly.	My battery on my computer runs out very fast.	0.6928	True
+e73ac2c389	My laptop’s battery drains too quickly.	My battery on my computer runs out very fast.	0.6928	True
+e73ac2c389	My laptop’s battery drains too quickly.	My battery on my computer runs out very fast.	0.6928	True
+e73ac2c389	My laptop’s battery drains too quickly.	My battery on my computer runs out very fast.	0.6928	True
+e73ac2c389	My laptop’s battery drains too quickly.	My battery on my computer runs out very fast.	0.6928	True
+e73ac2c389	My laptop’s battery drains too quickly.	My battery on my computer runs out very fast.	0.6928	True
+e73ac2c389	My laptop’s battery drains too quickly.	My battery on my computer runs out very fast.	0.6928	True
+e73ac2c389	My laptop’s battery drains too quickly.	My battery on my computer runs out very fast.	0.6928	True
+e73ac2c389	My laptop’s battery drains too quickly.	My battery on my computer runs out very fast.	0.6928	True
+e7548c9519	I can’t access the company’s shared drive.	I’m unable to open the shared network folder.	0.6725	True
+e7548c9519	I can’t access the company’s shared drive.	I’m unable to open the shared network folder.	0.6725	True
+e7548c9519	I can’t access the company’s shared drive.	I’m unable to open the shared network folder.	0.6725	True
+e7548c9519	I can’t access the company’s shared drive.	I’m unable to open the shared network folder.	0.6725	True
+e7548c9519	I can’t access the company’s shared drive.	I’m unable to open the shared network folder.	0.6725	True
+e7548c9519	I can’t access the company’s shared drive.	I’m unable to open the shared network folder.	0.6725	True
+e7548c9519	I can’t access the company’s shared drive.	I’m unable to open the shared network folder.	0.6725	True
+e7548c9519	I can’t access the company’s shared drive.	I’m unable to open the shared network folder.	0.6725	True
+e7548c9519	I can’t access the company’s shared drive.	I’m unable to open the shared network folder.	0.6725	True
+e7548c9519	I can’t access the company’s shared drive.	I’m unable to open the shared network folder.	0.6725	True
+e7548c9519	I can’t access the company’s shared drive.	I’m unable to open the shared network folder.	0.6725	True
+e7548c9519	I can’t access the company’s shared drive.	I’m unable to open the shared network folder.	0.6725	True
+e7548c9519	I can’t access the company’s shared drive.	I’m unable to open the shared network folder.	0.6725	True
+e7548c9519	I can’t access the company’s shared drive.	I’m unable to open the shared network folder.	0.6725	True
+e7548c9519	I can’t access the company’s shared drive.	I’m unable to open the shared network folder.	0.6725	True
+e7548c9519	I can’t access the company’s shared drive.	I’m unable to open the shared network folder.	0.6725	True
+e7548c9519	I can’t access the company’s shared drive.	I’m unable to open the shared network folder.	0.6725	True
+e7548c9519	I can’t access the company’s shared drive.	I’m unable to open the shared network folder.	0.6725	True
+e7548c9519	I can’t access the company’s shared drive.	I’m unable to open the shared network folder.	0.6725	True
+e7548c9519	I can’t access the company’s shared drive.	I’m unable to open the shared network folder.	0.6725	True
+e7548c9519	I can’t access the company’s shared drive.	I’m unable to open the shared network folder.	0.6725	True
+e7548c9519	I can’t access the company’s shared drive.	I’m unable to open the shared network folder.	0.6725	True
+e7548c9519	I can’t access the company’s shared drive.	I’m unable to open the shared network folder.	0.6725	True
+e7548c9519	I can’t access the company’s shared drive.	I’m unable to open the shared network folder.	0.6725	True
+e7548c9519	I can’t access the company’s shared drive.	I’m unable to open the shared network folder.	0.6725	True
+e7548c9519	I can’t access the company’s shared drive.	I’m unable to open the shared network folder.	0.6725	True
+e7548c9519	I can’t access the company’s shared drive.	I’m unable to open the shared network folder.	0.6725	True
+e7548c9519	I can’t access the company’s shared drive.	I’m unable to open the shared network folder.	0.6725	True
+e7548c9519	I can’t access the company’s shared drive.	I’m unable to open the shared network folder.	0.6725	True
+e7548c9519	I can’t access the company’s shared drive.	I’m unable to open the shared network folder.	0.6725	True
+e7548c9519	I can’t access the company’s shared drive.	I’m unable to open the shared network folder.	0.6725	True
+e7548c9519	I can’t access the company’s shared drive.	I’m unable to open the shared network folder.	0.6725	True
+e7548c9519	I can’t access the company’s shared drive.	I’m unable to open the shared network folder.	0.6725	True
+e7548c9519	I can’t access the company’s shared drive.	I’m unable to open the shared network folder.	0.6725	True
+e7548c9519	I can’t access the company’s shared drive.	I’m unable to open the shared network folder.	0.6725	True
+e7548c9519	I can’t access the company’s shared drive.	I’m unable to open the shared network folder.	0.6725	True
+e7548c9519	I can’t access the company’s shared drive.	I’m unable to open the shared network folder.	0.6725	True
+e7548c9519	I can’t access the company’s shared drive.	I’m unable to open the shared network folder.	0.6725	True
+f427f0ff11	My printer is printing blank pages.	My printer outputs empty sheets of paper.	0.7992	True
+f427f0ff11	My printer is printing blank pages.	My printer outputs empty sheets of paper.	0.7992	True
+f427f0ff11	My printer is printing blank pages.	My printer outputs empty sheets of paper.	0.7992	True
+f427f0ff11	My printer is printing blank pages.	My printer outputs empty sheets of paper.	0.7992	True
+f427f0ff11	My printer is printing blank pages.	My printer outputs empty sheets of paper.	0.7992	True
+f427f0ff11	My printer is printing blank pages.	My printer outputs empty sheets of paper.	0.7992	True
+f427f0ff11	My printer is printing blank pages.	My printer outputs empty sheets of paper.	0.7992	True
+f427f0ff11	My printer is printing blank pages.	My printer outputs empty sheets of paper.	0.7992	True
+f427f0ff11	My printer is printing blank pages.	My printer outputs empty sheets of paper.	0.7992	True
+f427f0ff11	My printer is printing blank pages.	My printer outputs empty sheets of paper.	0.7992	True
+f427f0ff11	My printer is printing blank pages.	My printer outputs empty sheets of paper.	0.7992	True
+f427f0ff11	My printer is printing blank pages.	My printer outputs empty sheets of paper.	0.7992	True
+f427f0ff11	My printer is printing blank pages.	My printer outputs empty sheets of paper.	0.7992	True
+f92db64d63	I need more storage space on my hard drive.	The sound quality from my headphones is distorted.	0.0565	False
+f92db64d63	I need more storage space on my hard drive.	The sound quality from my headphones is distorted.	0.0565	False
+f92db64d63	I need more storage space on my hard drive.	The sound quality from my headphones is distorted.	0.0565	False
+f92db64d63	I need more storage space on my hard drive.	The sound quality from my headphones is distorted.	0.0565	False
+f92db64d63	I need more storage space on my hard drive.	The sound quality from my headphones is distorted.	0.0565	False
+f92db64d63	I need more storage space on my hard drive.	The sound quality from my headphones is distorted.	0.0565	False
+f92db64d63	I need more storage space on my hard drive.	The sound quality from my headphones is distorted.	0.0565	False
+f92db64d63	I need more storage space on my hard drive.	The sound quality from my headphones is distorted.	0.0565	False
+f92db64d63	I need more storage space on my hard drive.	The sound quality from my headphones is distorted.	0.0565	False
+f92db64d63	I need more storage space on my hard drive.	The sound quality from my headphones is distorted.	0.0565	False
+f92db64d63	I need more storage space on my hard drive.	The sound quality from my headphones is distorted.	0.0565	False
+f92db64d63	I need more storage space on my hard drive.	The sound quality from my headphones is distorted.	0.0565	False
+f92db64d63	I need more storage space on my hard drive.	The sound quality from my headphones is distorted.	0.0565	False
+f92db64d63	I need more storage space on my hard drive.	The sound quality from my headphones is distorted.	0.0565	False
+f92db64d63	I need more storage space on my hard drive.	The sound quality from my headphones is distorted.	0.0565	False
+fe8f5bf86a	The software crashes every time I try to open it.	The fan on my laptop is making a loud noise.	0.2108	False
+fe8f5bf86a	The software crashes every time I try to open it.	The fan on my laptop is making a loud noise.	0.2108	False
+fe8f5bf86a	The software crashes every time I try to open it.	The fan on my laptop is making a loud noise.	0.2108	False
+fe8f5bf86a	The software crashes every time I try to open it.	The fan on my laptop is making a loud noise.	0.2108	False
+fe8f5bf86a	The software crashes every time I try to open it.	The fan on my laptop is making a loud noise.	0.2108	False
+fe8f5bf86a	The software crashes every time I try to open it.	The fan on my laptop is making a loud noise.	0.2108	False
+fe8f5bf86a	The software crashes every time I try to open it.	The fan on my laptop is making a loud noise.	0.2108	False
+fe8f5bf86a	The software crashes every time I try to open it.	The fan on my laptop is making a loud noise.	0.2108	False
+fe8f5bf86a	The software crashes every time I try to open it.	The fan on my laptop is making a loud noise.	0.2108	False
+fe8f5bf86a	The software crashes every time I try to open it.	The fan on my laptop is making a loud noise.	0.2108	False
+fe8f5bf86a	The software crashes every time I try to open it.	The fan on my laptop is making a loud noise.	0.2108	False
+fe8f5bf86a	The software crashes every time I try to open it.	The fan on my laptop is making a loud noise.	0.2108	False
+fe8f5bf86a	The software crashes every time I try to open it.	The fan on my laptop is making a loud noise.	0.2108	False
+fe8f5bf86a	The software crashes every time I try to open it.	The fan on my laptop is making a loud noise.	0.2108	False
