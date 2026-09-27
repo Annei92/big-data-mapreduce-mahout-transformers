@@ -1,0 +1,22 @@
+Q2 cleaned dataset counts
+
+Local cleaned docs count:
+7900
+
+Category counts:
+austen-bronte 813
+french-tragedies-and-comedies 3421
+french-tragedy 2735
+hugo-les-miserables 931
+
+HDFS cleaned docs count:
+           5         7900           21450275 /user/ainti001/input_q2/q2_docs_sw
+
+Final sequence file path:
+/user/ainti001/output_q2/seqfiles_sw
+
+Final TF-IDF vector path:
+/user/ainti001/output_q2/vectors_sw/tfidf-vectors
+
+Final K-Means output pattern:
+/user/ainti001/output_q2/kmeans_<distance>_k<K>_sw_seq

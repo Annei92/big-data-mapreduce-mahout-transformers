@@ -1,0 +1,7 @@
+distance_measure,k,cluster_dump_file,cluster_count,clustered_points_exists
+euclidean,3,q2_results_sw/euclidean_k3_sw_seq_clusters.txt,3,yes
+euclidean,4,q2_results_sw/euclidean_k4_sw_seq_clusters.txt,4,yes
+euclidean,5,q2_results_sw/euclidean_k5_sw_seq_clusters.txt,5,yes
+manhattan,3,q2_results_sw/manhattan_k3_sw_seq_clusters.txt,3,yes
+manhattan,4,q2_results_sw/manhattan_k4_sw_seq_clusters.txt,4,yes
+manhattan,5,q2_results_sw/manhattan_k5_sw_seq_clusters.txt,5,yes
